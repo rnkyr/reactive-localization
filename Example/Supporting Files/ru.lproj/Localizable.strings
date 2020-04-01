@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Example
+
+  Created by Roman Kyrylenko on 01.04.2020.
+  Copyright © 2020 Roman Kyrylenko. All rights reserved.
+*/
+
+"first_screen.label" = "Добро пожаловать";
+"first_screen.change_language.title" = "Выбор языка";
+
+"second_screen.label" = "Текущий язык: %@";

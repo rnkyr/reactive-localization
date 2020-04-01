@@ -1,0 +1,15 @@
+xcassets:
+  inputs: Example/Supporting Files/Assets.xcassets
+  outputs:
+    templateName: swift4
+    output: Example/Extensions/Swiftgen/Assets.swift
+strings:
+  inputs: Example/Supporting Files/en.lproj/Localizable.strings
+  outputs:
+    templateName: flat-swift4
+    output: Example/Extensions/Swiftgen/Strings.swift
+fonts:
+  inputs: Example/Supporting Files
+  outputs:
+    templateName: swift4
+    output: Example/Extensions/Swiftgen/Fonts.swift
